@@ -1,0 +1,7 @@
+.claude/skills/get-brolls/.venv/
+.claude/skills/get-brolls/.tools/
+__pycache__/
+brolls/
+*.mp4
+*.mov
+.env
